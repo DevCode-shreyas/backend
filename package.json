@@ -4,7 +4,7 @@
   "description": "a social media app",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "shreyas bole",
   "license": "ISC",
